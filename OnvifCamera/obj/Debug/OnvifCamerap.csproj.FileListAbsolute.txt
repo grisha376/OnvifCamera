@@ -1,0 +1,9 @@
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\obj\Debug\OnvifCamerap.csproj.AssemblyReference.cache
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\obj\Debug\OnvifCamerap.csproj.SuggestedBindingRedirects.cache
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\obj\Debug\OnvifCamera.Form1.resources
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\obj\Debug\OnvifCamera.OnvifCamera.resources
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\obj\Debug\OnvifCamera.Properties.Resources.resources
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\obj\Debug\OnvifCamerap.csproj.GenerateResource.cache
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\obj\Debug\OnvifCamerap.csproj.CoreCompileInputs.cache
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\obj\Debug\OnvifCamera.exe
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\obj\Debug\OnvifCamera.pdb

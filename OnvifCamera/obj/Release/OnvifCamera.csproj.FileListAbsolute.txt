@@ -1,0 +1,14 @@
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\bin\Release\OnvifCamera.exe.config
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\bin\Release\OnvifCamera.exe
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\bin\Release\OnvifCamera.pdb
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\bin\Release\WebEye.Controls.WinForms.StreamPlayerControl.dll
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\obj\Release\OnvifCamera.csproj.AssemblyReference.cache
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\obj\Release\OnvifCamera.csproj.SuggestedBindingRedirects.cache
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\obj\Release\OnvifCamera.Camera.resources
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\obj\Release\OnvifCamera.Properties.Resources.resources
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\obj\Release\OnvifCamera.csproj.GenerateResource.cache
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\obj\Release\OnvifCamera.csproj.CoreCompileInputs.cache
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\obj\Release\OnvifCamera.csproj.CopyComplete
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\obj\Release\OnvifCamera.exe
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\obj\Release\OnvifCamera.pdb
+C:\Users\seth\Desktop\OnvifCamera\OnvifCamera\obj\Release\OnvifCamera.Video.resources

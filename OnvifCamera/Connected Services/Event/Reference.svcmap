@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="32a4daae-0ad9-4aac-955d-c0a173d69486" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://www.onvif.org/onvif/ver10/events/wsdl/event-vs.wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="t-1.xsd" MetadataType="Schema" ID="8afffbb7-363c-42ac-81f2-5e523fef9796" SourceId="1" SourceUrl="http://docs.oasis-open.org/wsn/t-1.xsd" />
+    <MetadataFile FileName="b-2.xsd" MetadataType="Schema" ID="771005f7-f641-4706-bea6-a041e7bbb7c9" SourceId="1" SourceUrl="http://docs.oasis-open.org/wsn/b-2.xsd" />
+    <MetadataFile FileName="xml.xsd" MetadataType="Schema" ID="62c0d5fb-39ca-4498-9e15-d583be65230c" SourceId="1" SourceUrl="http://www.w3.org/2001/xml.xsd" />
+    <MetadataFile FileName="ws-addr.xsd" MetadataType="Schema" ID="2560fe87-18c6-4eb6-9441-287412cdeed9" SourceId="1" SourceUrl="http://www.w3.org/2005/08/addressing/ws-addr.xsd" />
+    <MetadataFile FileName="WS-Resource.wsdl" MetadataType="Wsdl" ID="98152500-48cc-4a25-bd87-19a15ff4edd5" SourceId="1" SourceUrl="http://docs.oasis-open.org/wsrf/rw-2.wsdl" />
+    <MetadataFile FileName="WS-BaseNotification.wsdl" MetadataType="Wsdl" ID="807e1741-7509-4b69-9db7-df4baef70206" SourceId="1" SourceUrl="http://www.onvif.org/onvif/ver10/events/wsdl/bw-2-vs-mod.wsdl" />
+    <MetadataFile FileName="event-vs.wsdl" MetadataType="Wsdl" ID="d44b944d-dc15-4d43-b863-422803a967e0" SourceId="1" SourceUrl="http://www.onvif.org/onvif/ver10/events/wsdl/event-vs.wsdl" />
+    <MetadataFile FileName="bf-2.xsd" MetadataType="Schema" ID="e9060031-de60-46d1-aadc-9d8f6533d87d" SourceId="1" SourceUrl="http://docs.oasis-open.org/wsrf/bf-2.xsd" />
+    <MetadataFile FileName="r-2.xsd" MetadataType="Schema" ID="29006c8e-98a7-4abf-ab97-3f99068ed769" SourceId="1" SourceUrl="http://docs.oasis-open.org/wsrf/r-2.xsd" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

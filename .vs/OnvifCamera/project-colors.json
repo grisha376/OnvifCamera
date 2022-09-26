@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "abd4dc1d-96a1-49e8-951b-52af1f1b98cf": {
+      "ProjectGuid": "abd4dc1d-96a1-49e8-951b-52af1f1b98cf",
+      "DisplayName": "OnvifCamera",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
